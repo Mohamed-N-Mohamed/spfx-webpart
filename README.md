@@ -31,7 +31,7 @@ Version|Date|Comments
 - in the command-line run:
   - **npm install**
   - **gulp serve**
-  - 
+  
 ## References
 
 - [Getting started with SharePoint Framework](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant)
