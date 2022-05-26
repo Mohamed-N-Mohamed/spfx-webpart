@@ -1,0 +1,39 @@
+{
+  "name": "addin-365",
+  "version": "0.0.1",
+  "private": true,
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "npm run tailwind:css && gulp bundle",
+    "clean": "gulp clean",
+    "test": "gulp test",
+    "build:tailwind": "postcss tailwind.source.css -o src/tailwind.css"
+  },
+  "dependencies": {
+    "@microsoft/mgt-element": "^2.5.2",
+    "@microsoft/mgt-msal2-provider": "^2.5.2",
+    "@microsoft/mgt-react": "^2.5.2",
+    "@microsoft/microsoft-graph-types": "^2.20.0",
+    "@microsoft/sp-core-library": "1.14.0",
+    "@microsoft/sp-lodash-subset": "1.14.0",
+    "@microsoft/sp-office-ui-fabric-core": "1.14.0",
+    "@microsoft/sp-property-pane": "1.14.0",
+    "@microsoft/sp-webpart-base": "1.14.0",
+    "office-ui-fabric-react": "7.174.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  },
+  "devDependencies": {
+    "@microsoft/rush-stack-compiler-3.9": "0.4.47",
+    "@microsoft/sp-build-web": "1.14.0",
+    "@microsoft/sp-module-interfaces": "1.14.0",
+    "@microsoft/sp-tslint-rules": "1.14.0",
+    "@types/react": "16.9.51",
+    "@types/react-dom": "16.9.8",
+    "@types/webpack-env": "1.13.1",
+    "ajv": "~5.2.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-postcss": "^9.0.1",
+    "tailwindcss": "^3.0.24"
+  }
+}

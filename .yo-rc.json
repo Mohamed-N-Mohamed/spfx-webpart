@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "addin-365",
+    "libraryId": "7c8a5fa0-b504-47eb-82a0-388bfc72fdb1",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "addin365",
+    "solutionShortDescription": "addin365 description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
