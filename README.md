@@ -1,10 +1,10 @@
 # addin-365
 
-## Summary
+## Screenshots
 
-Short summary on functionality and used technologies.
+![FireShot Capture 003 -  - 0m63n sharepoint com](https://user-images.githubusercontent.com/63976154/170411338-8c77bdc7-6fd8-4740-b07c-a7497a9cc3f3.png)
 
-[picture of the solution in action, if possible]
+![FireShot Capture 006 -  - 0m63n sharepoint com](https://user-images.githubusercontent.com/63976154/170411479-b8f45364-72ec-47af-99f0-fe4eed0dbf81.png)
 
 ## Used SharePoint Framework Version
 
@@ -25,11 +25,6 @@ Version|Date|Comments
 1.1|March 10, 2021|Update comment
 1.0|January 29, 2021|Initial release
 
-## Disclaimer
-
-**THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
----
-
 ## Minimal Path to Awesome
 
 - Clone this repository
@@ -37,14 +32,7 @@ Version|Date|Comments
 - in the command-line run:
   - **npm install**
   - **gulp serve**
-
-
-
-
-> Notice that better pictures and documentation will increase the sample usage and the value you are providing for others. Thanks for your submissions advance.
-
-> Share your web part with others through Microsoft 365 Patterns and Practices program to get visibility and exposure. More details on the community, open-source projects and other activities from http://aka.ms/m365pnp.
-
+  - 
 ## References
 
 - [Getting started with SharePoint Framework](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant)
