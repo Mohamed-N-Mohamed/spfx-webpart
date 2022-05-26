@@ -4,7 +4,6 @@
 
 ![FireShot Capture 003 -  - 0m63n sharepoint com](https://user-images.githubusercontent.com/63976154/170411338-8c77bdc7-6fd8-4740-b07c-a7497a9cc3f3.png)
 
-![FireShot Capture 006 -  - 0m63n sharepoint com](https://user-images.githubusercontent.com/63976154/170411479-b8f45364-72ec-47af-99f0-fe4eed0dbf81.png)
 
 ## Used SharePoint Framework Version
 
