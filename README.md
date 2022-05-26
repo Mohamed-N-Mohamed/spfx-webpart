@@ -1,6 +1,6 @@
 # addin-365
 
-## Screenshots
+## Project Screenshot
 
 ![FireShot Capture 003 -  - 0m63n sharepoint com](https://user-images.githubusercontent.com/63976154/170411338-8c77bdc7-6fd8-4740-b07c-a7497a9cc3f3.png)
 
