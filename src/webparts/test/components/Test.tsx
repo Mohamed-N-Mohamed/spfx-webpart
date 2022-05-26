@@ -87,14 +87,13 @@ export default function Test({context}: ITestProps) {
         <UI key={user.id} displayName={user.displayName} mail={user.mail} jobTitle={user.jobTitle}/>
        ))
 
-     )};
+     )}
      {users.length === 0 && (
-       <div className="">
-         <h2 className='text-2xl text-red-600'>No Users exist</h2>
+       <div className="error-message">
+         <h2 className='text-2xl text-red-600'>User doesn't exist</h2>
        </div>
-     )};
-     {console.log(users)};
+     )}
     </div>
-  );
+  )
 }
 
